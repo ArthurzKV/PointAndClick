@@ -395,6 +395,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Comandos.cs"
 "Assets/Controlador.cs"
+"Assets/Interacciones.cs"
 "Assets/JUGADOR/IDLES/PlayerMovement.cs"
 "Assets/MostrarTexto.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
@@ -431,6 +432,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/TextosMaquinaEscribir.cs"
 -langversion:9.0
 
 /deterministic

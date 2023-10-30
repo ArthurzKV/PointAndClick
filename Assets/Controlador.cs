@@ -149,17 +149,6 @@ public class Controlador : MonoBehaviour
             Hablar = false;
             Leer = true;
             Empujar = false;
-        }else{
-            textoParaMostrar.text = "";
-            Abrir = false;
-            Cerrar = false;
-            Dar = false;
-            Usar = false;
-            Coger = false;
-            Pulsar = false;
-            Hablar = false;
-            Leer = false;
-            Empujar = false;
         }
 
     }
@@ -178,6 +167,21 @@ public class Controlador : MonoBehaviour
             Empujar = false;
         }
 
+    }
+
+    public void Update(){
+        if(Jugador.isMoving == true){
+            textoParaMostrar.text = "";
+            Abrir = false;
+            Cerrar = false;
+            Dar = false;
+            Usar = false;
+            Coger = false;
+            Pulsar = false;
+            Hablar = false;
+            Leer = false;
+            Empujar = false;
+        }
     }
 
 }
