@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00030000
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+	android:glEsVersion
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-91
+	android:required
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:64-88
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+	android:required
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+	android:required
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+	android:required
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+application
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-26:17
+	android:extractNativeLibs
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+meta-data#unity.splash-mode
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-83
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:60-80
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-59
+meta-data#android.max_aspect
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-73
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:50-70
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-49
+meta-data#notch.config
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:61-81
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-25:16
+	android:maxAspectRatio
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:185-214
+	android:screenOrientation
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:111-152
+	android:launchMode
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:153-184
+	android:hardwareAccelerated
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:431-466
+	android:exported
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:467-490
+	android:resizeableActivity
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:397-430
+	android:configChanges
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:215-396
+	android:theme
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:69-110
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:7-20:23
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:19-66
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-58
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-82
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:59-79
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-58
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-130
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:76-127
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-75
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-145
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:83-142
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-82
+meta-data#notch_support
+ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-70
+	android:value
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:47-67
+	android:name
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-46
+uses-sdk
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\VIDEO GAME\Nueva carpeta\PointAndClick - copia - copia\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml

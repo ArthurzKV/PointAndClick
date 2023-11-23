@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 84
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,10 +139,10 @@ TextureImporter:
       name: Left_breathing_anim_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 14
-        width: 16
-        height: 59
+        x: 0
+        y: 0
+        width: 84
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Left_breathing_anim_1
       rect:
         serializedVersion: 2
-        x: 112
-        y: 14
-        width: 16
-        height: 59
+        x: 84
+        y: 0
+        width: 84
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Left_breathing_anim_2
       rect:
         serializedVersion: 2
-        x: 196
-        y: 14
-        width: 16
-        height: 58
+        x: 168
+        y: 0
+        width: 84
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,10 +202,10 @@ TextureImporter:
       name: Left_breathing_anim_3
       rect:
         serializedVersion: 2
-        x: 280
-        y: 14
-        width: 16
-        height: 58
+        x: 252
+        y: 0
+        width: 84
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

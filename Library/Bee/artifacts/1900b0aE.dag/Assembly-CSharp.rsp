@@ -397,6 +397,7 @@
 "Assets/Controlador.cs"
 "Assets/Interacciones.cs"
 "Assets/JUGADOR/IDLES/PlayerMovement.cs"
+"Assets/Moneda.cs"
 "Assets/MostrarTexto.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

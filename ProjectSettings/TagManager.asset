@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Comandos
   - Objeto
+  - InventarioCanvas
   layers:
   - Default
   - TransparentFX
@@ -14,7 +15,7 @@ TagManager:
   - Water
   - UI
   - Colliders
-  - 
+  - InventarioCanvas
   - 
   - 
   - 
